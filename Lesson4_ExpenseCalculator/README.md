@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October, 13th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Mariana Domine)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, we learned how to use code to make an expense calculator.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/md14m/lesson4_javascript1)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A "scripting language" is simply a programing language
+2. "JavaScript" drastically improves the design of a once static html page
+3. The javascript code is embedded with the <script> tag
 
